@@ -1,0 +1,13 @@
+title: "Mamadou DIEDHIOU — Portfolio Data"
+description: "Data Analyst | Power BI • SQL • Python • Cloud (Azure & GCP) — Ouvert aux opportunités CDD/CDI."
+theme: jekyll-theme-minimal
+show_downloads: true
+lang: fr
+
+# Logo / photo affichée en haut (mets ton image dans /assets/img/)
+logo: /assets/img/mypicture.jpg
+
+# Liens utiles (affichés selon le thème)
+github:
+  is_project_page: true
+  repository_url: https://github.com/douboym
