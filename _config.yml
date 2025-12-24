@@ -5,7 +5,7 @@ show_downloads: true
 lang: fr
 
 # Logo / photo affichée en haut (mets ton image dans /assets/img/)
-logo: /assets/img/mypicture.jpg
+logo: img/mypicture.jpg
 
 # Liens utiles (affichés selon le thème)
 github:
