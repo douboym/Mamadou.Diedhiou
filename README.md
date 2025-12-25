@@ -2,11 +2,11 @@ Data Analyst spécialisé en Business Intelligence, automatisation des analyses 
 
 Après une alternance chez AXA France en tant que Chargé d’Études Statistiques, je suis ouvert aux opportunités CDD / CDI – Data Analyst / BI Analyst / Chargé d’Études.
 
-🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay) | 2024 - 2025
+🎓 Master 2 – Innovation, Marché & Science des Données (Paris-Saclay) - 2024/2025
 
-🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille) | 2022 - 2024
+🎓 Master 2 – Expertise Economique pour les Organisations Publiques et Privées (Lille) - 2022/2024
 
-🎓 Licence 3 – Econométrie (Orléans) | 2022 - 2023
+🎓 Licence 3 – Econométrie (Orléans) - 2022/2023
 
 📊 Power BI Certified | Dataiku Advanced Designer  
 🎯 PL-300 (en cours)
