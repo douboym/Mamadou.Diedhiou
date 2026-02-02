@@ -8,9 +8,6 @@ Après une alternance chez AXA France en tant que Chargé d’Études Statistiqu
 
 🎓 Licence 3 – Econométrie (Orléans) - 2022/2023
 
-📊 Power BI Certified | Dataiku Advanced Designer  
-🎯 PL-300 (en cours)
-
 ---
 
 # Compétences clés
@@ -58,10 +55,33 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 # Projets Data – GitHub
 
-## 📦 **Sales Analytics – ETL & BI**
-Pipeline ETL complet : ingestion → PostgreSQL → Power BI  
-Analyse de la performance commerciale et KPIs décisionnels  
+## 📊 Retail Sales ETL & BI (MySQL / Power BI)
+
+*Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la décision.*
+- Pipeline ETL en Python avec data profiling et règles de qualité
+- Données sources CSV → nettoyage, contrôles, rejets tracés
+- Data Warehouse MySQL en schéma étoile
+- Dashboard Power BI interactif orienté pilotage métier
+- 
+🎯 **Objectif métier** : fournir des indicateurs fiables pour identifier les leviers de croissance et sécuriser la prise de décision.
+
+👉 *[retail-sales-etl-bi](https://github.com/mamadou-data/retail-sales-etl-bi)*
+
+## 📦 **Sales Analytics – ETL & BI (PostgreSQL)**
+**Pipeline ETL orienté analyse de la performance commerciale.**
+- Ingestion et transformation des données de ventes
+- Stockage analytique dans PostgreSQL
+- Modélisation pour Power BI
+- Calcul et suivi de KPIs business
+
 - 👉 **[Sales-Analytics-ETL](https://github.com/mamadou-data/Sales-Analytics-ETL)**
+
+## 📦 ETL Sales Analysis – Data Warehouse & Reporting
+**Projet ETL axé sur la structuration analytique des données de ventes.**
+- Nettoyage et transformation des données
+- Modélisation en tables de faits et dimensions
+- Analyse décisionnelle sous Power BI
+- Focus sur la cohérence et la fiabilité des indicateurs
 - 👉 **[ETL-Sales-Analysis](https://github.com/mamadou-data/ETL-Sales-Analysis)** 
 
 ---
@@ -72,14 +92,13 @@ Analyse de la performance commerciale et KPIs décisionnels
 - Orchestration avec Airflow (Cloud Composer)
 - Modélisation BigQuery + BigQuery ML
 - Prédiction de l’activité client (ROC AUC ≈ 0.88)
-
 - 👉 **[gcp-ecommerce-elt-ml](https://github.com/mamadou-data/gcp-ecommerce-elt-ml)**
 
 ---
 
 ## 📊 **Projets Power BI – Dashboards & Cas pratiques**
-Dashboards BI sur des cas Ventes, RH et CRM  
-DAX, modélisation avancée, Power BI Service  
+- Dashboards BI sur des cas Ventes, RH et CRM  
+- DAX, modélisation avancée, Power BI Service  
 - 👉 **[Power-BI](https://github.com/mamadou-data/Power-BI)** 
 
 ---
@@ -156,11 +175,10 @@ Nettoyage, analyse exploratoire et visualisation
 ---
 
 # 🎓 Certifications
-- ✅ **Data Analyst in Power BI** – **DataCamp**
-- ✅ **Dataiku Advanced Designer Certificate**
-- ✅ **Microsoft Certified Azure Fundamentals**
-- ✅ **Certification SAS – Programmation**
-- 🎯 **PL-300 (en cours)**
+- 📈 Microsoft Certified : Power BI Data Analyst Associate  
+- ☁️ Microsoft Certified : Azure Data Fundamentals
+- 🧠 Dataiku Advanced Designer Certificate
+- 🧮 Udemy Certified : SAS – Programmation
 
 ---
 
