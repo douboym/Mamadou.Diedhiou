@@ -4,10 +4,14 @@ theme: jekyll-theme-cayman
 show_downloads: true
 lang: fr
 
-# Logo / photo affichée en haut (mets ton image dans /assets/img/)
+# Logo / photo affichée en haut
 logo: img/mypicture.jpg
 
-# Liens utiles (affichés selon le thème)
+# Configuration GitHub
 github:
   is_project_page: true
   repository_url: https://github.com/mamadou-data
+
+# Réseaux sociaux (utilisés par certains thèmes / plugins)
+social_links:
+  linkedin: diedhiou
