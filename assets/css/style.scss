@@ -1,34 +1,25 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* Amélioration lisibilité + largeur centrée */
+/* Force une largeur centrée + texte plus lisible sur Cayman */
 .main-content {
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem;
-  font-size: 18px;
-  line-height: 1.7;
+  max-width: 980px !important;
+  margin: 0 auto !important;
+  padding: 2rem 1.5rem !important;
+  font-size: 18px !important;
+  line-height: 1.75 !important;
 }
 
-/* Titres plus lisibles */
-.main-content h1 { font-size: 2.2rem; }
-.main-content h2 { font-size: 1.8rem; }
-.main-content h3 { font-size: 1.35rem; }
+/* Titres plus grands */
+.main-content h1 { font-size: 2.2rem !important; }
+.main-content h2 { font-size: 1.8rem !important; }
+.main-content h3 { font-size: 1.35rem !important; }
 
-/* Listes plus aérées */
-.main-content ul, .main-content ol {
-  padding-left: 1.3rem;
-}
-.main-content li {
-  margin: 0.25rem 0;
-}
+/* Listes */
+.main-content ul, .main-content ol { padding-left: 1.3rem !important; }
+.main-content li { margin: 0.25rem 0 !important; }
 
 /* Mobile */
 @media (max-width: 600px) {
   .main-content {
-    font-size: 16px;
-    padding: 1.25rem 1rem;
+    font-size: 16px !important;
+    padding: 1.25rem 1rem !important;
   }
 }
