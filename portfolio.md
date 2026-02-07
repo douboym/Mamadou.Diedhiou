@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mamadou DIEDHIOU
+title: Portfolio
 ---
 
 Data Analyst / BI orienté décision métier. Spécialisé en Power BI, automatisation analytique et modélisation statistique.  
