@@ -32,3 +32,4 @@ title: "Mamadou DIEDHIOU"
 
 <h1 align="center">Data Analyst Power BI certifié Microsoft (PL-300) – BI, SQL, Python, Cloud</h1>
 
+{% include_relative README.md %}
