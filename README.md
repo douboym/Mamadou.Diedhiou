@@ -59,9 +59,17 @@ Power BI • Python • R • SAS • SQL • Git/GitHub • Streamlit • VS Co
 
 # Projets Data – GitHub
 
+## 🚕 NYC Yellow Taxi Analytics — Databricks & Power BI
+
+**Projet d’analyse end-to-end basé sur une architecture Medallion (Bronze/Silver/Gold) sur Databricks.**
+
+- Pipeline automatisé via Databricks Workflows, données modélisées en schéma étoile (Delta Lake).  
+- Dashboard Power BI interactif (DAX avancé) : KPI, tendances, analyse géographique Pickup vs Dropoff, qualité des données.
+- 👉 **[Lien du projet](https://github.com/mamadou-data/Databricks_NYC_Yellow_Taxi_Analytics)**
+
 ## 📊 Retail Sales ETL & BI (MySQL / Power BI)
 
-Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la décision.
+**Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la décision.**
 
 - Pipeline ETL en Python avec contrôles de qualité
 - Data Warehouse MySQL en schéma étoile
@@ -73,8 +81,10 @@ Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la déc
 
 ---
 
-### 📊 Pipeline ELT & Machine Learning E-commerce (GCP)
-*Développement d’un pipeline ELT automatisé sur GCP (GCS, BigQuery, Airflow/Cloud Composer) avec intégration Machine Learning via BigQuery ML pour la prédiction de l’activité client.*
+## 📊 Pipeline ELT & Machine Learning E-commerce (GCP)
+
+**Développement d’un pipeline ELT automatisé sur GCP (GCS, BigQuery, Airflow/Cloud Composer) avec intégration Machine Learning via BigQuery ML pour la prédiction de l’activité client.**
+
 - Pipeline ELT automatisé sur Google Cloud Platform
 - Orchestration avec Airflow (Cloud Composer)
 - Modélisation BigQuery + BigQuery ML
@@ -83,17 +93,18 @@ Projet end-to-end Data Analyst / BI : de la donnée brute à l’aide à la déc
 
 ---
 
-## 📊 **Projets Power BI – Dashboards & Cas pratiques**
+## 📊 Projets Power BI – Dashboards & Cas pratiques
 - Dashboards BI sur des cas Ventes, RH et CRM  
 - DAX, modélisation avancée, Power BI Service  
 - 👉 **[Power-BI](https://github.com/mamadou-data/Power-BI)** 
 
 ---
 
-## 🚕 **NYC Yellow Taxi – ELT Pipeline sur GCP**
+## 🚕 NYC Yellow Taxi – ELT Pipeline sur GCP
+
 Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis l’ingestion de données brutes jusqu’à l’analyse avancée et la préparation au Machine Learning.
 
-**Objectif :** concevoir un pipeline reproductible, automatisé et orienté analytics, basé sur des données réelles à fort volume.
+**Objectif** : concevoir un pipeline reproductible, automatisé et orienté analytics, basé sur des données réelles à fort volume.
 
 ### 🔧 Stack technique
 - Google Cloud Storage (GCS)
@@ -126,37 +137,36 @@ Pipeline **ELT cloud-native** de bout en bout sur Google Cloud Platform, depuis 
 - Notebooks d’analyse Python
 - Documentation complète (README)
 
-👉 **Code source :**  
-- 🔗 **[Yellow_Taxi_Trips_Analytics](https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics)**
+- 👉**[Yellow_Taxi_Trips_Analytics](https://github.com/mamadou-data/Yellow_Taxi_Trips_Analytics)**
 
 ---
 
-## 📉 **Scoring & Prédiction du Risque**
-Modèles de scoring et segmentation des profils assurés  
-Régression & classification supervisée  
+## 📉 Scoring & Prédiction du Risque
+- Modèles de scoring et segmentation des profils assurés  
+- Régression & classification supervisée  
 - 👉 **[Projet-Scoring](https://github.com/mamadou-data/Projet-Scoring)**
 - 👉 **[Risk-Profil-Prediction](https://github.com/mamadou-data/Risk-Profil-Prediction)**
 
 ---
 
-## 📡 **Churn Prediction – Télécommunications**
-Anticipation des départs clients  
-Machine Learning + évaluation complète  
-Déploiement via **Streamlit**  
+## 📡 Churn Prediction – Télécommunications
+- Anticipation des départs clients  
+- Machine Learning + évaluation complète  
+- Déploiement via **Streamlit**  
 - 👉 **[telco_churn_prediction](https://github.com/mamadou-data/telco_churn_prediction)**  
 
 ---
 
-## 🌸 **Machine Learning & Streamlit**
-Application web interactive (Iris Dataset)  
-Classification et visualisation en temps réel  
+## 🌸 Machine Learning & Streamlit
+- Application web interactive (Iris Dataset)  
+- Classification et visualisation en temps réel  
 - 👉 **[iris-streamlit-app](https://github.com/mamadou-data/iris-streamlit-app)**
 
 ---
 
-## 🌐 **Web Scraping & Analyse de données**
-Collecte automatisée de données  
-Nettoyage, analyse exploratoire et visualisation  
+## 🌐 Web Scraping & Analyse de données
+- Collecte automatisée de données  
+- Nettoyage, analyse exploratoire et visualisation  
 - 👉 **[projet-scraping](https://github.com/mamadou-data/projet-scraping)**
 
 ---
@@ -169,7 +179,7 @@ Nettoyage, analyse exploratoire et visualisation
 
 ---
 
-## Ce que je peux apporter
+# Ce que je peux apporter
 - Structuration et fiabilisation des données
 - Création de dashboards décisionnels orientés métier
 - Automatisation des reportings
@@ -177,7 +187,7 @@ Nettoyage, analyse exploratoire et visualisation
 
 ---
 
-## À propos de ce portfolio
+# À propos de ce portfolio
 Ce portfolio met en avant :
 - une maîtrise complète de la chaîne Data
 - une forte orientation business & décision
